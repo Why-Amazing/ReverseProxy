@@ -1,0 +1,7 @@
+license server
+http://0.0.0.0:8888
+
+OR
+
+register->license server 
+http://127.0.0.1:8888
